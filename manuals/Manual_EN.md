@@ -80,7 +80,7 @@ The **DOM RADIO** project expresses deep gratitude to the pioneers of open DSP p
 
 ---
 
-### 🎙️ Golden Voices of Dagestani Pop
+### 🎙️ Golden Voices of Dagestan
 This plugin is created in memory of and with deep respect for the great singers whose voices and beautiful songs constitute the golden heritage of Makhachkala radio broadcasting:
 
 * **Mui Gasanova** — the legendary Avar singer whose soulful performances became a symbol of the musical culture of the mountainous region.
