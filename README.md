@@ -13,7 +13,7 @@
 
 ## 🇺🇸 English Version
 
-![Dom Radio Suite Overview](assets/screenshot_master.png)
+![Dom Radio Master](assets/DOM_RADIO_MASTER.png)
 
 **Dom Radio Suite** is a collection of high-end tape emulation plugins designed to bring the warm, nonlinear, and distinct character of vintage Soviet radio-broadcasting tape equipment to your modern DAW. 
 
@@ -21,6 +21,7 @@ The suite contains three tailored editions:
 1. **Dom Radio Master** — Full-featured mastering processor with TMT (Tolerance Modeling Technology), advanced tape mechanics simulation, age wear, CRT frequency display, and Pultec/Emphasis tone shapers.
 2. **Dom Radio Track** — CPU-optimized edition for individual mixing tracks, featuring core saturation, essential tape speed controls, and smart detail enhancement.
 3. **Dom Radio Drive** — Focused saturation unit centered around Germanium and Silicon preamp stages.
+![Dom Radio Track](assets/DOM_RADIO_TRACK.png)
 
 ### 🌟 Key Features
 * **Dual Distortion Engine:** Toggle between Silicon (symmetric, odd harmonics) and Germanium (asymmetric, even harmonics) vintage preamp stages.
@@ -51,7 +52,7 @@ The suite contains three tailored editions:
 
 ## 🇷🇺 Русская Версия
 
-![Dom Radio Suite Overview](assets/screenshot_track.png)
+![Dom Radio Master](assets/DOM_RADIO_MASTER.png)
 
 **Dom Radio Suite** — это набор плагинов эмуляции магнитной ленты, разработанный для воссоздания теплого, нелинейного и харизматичного характера советской студийной и вещательной аппаратуры конца 1970-х годов.
 
@@ -59,6 +60,8 @@ The suite contains three tailored editions:
 1. **Dom Radio Master** — Полнофункциональный мастер-процессор с системой моделирования допусков компонентов (TMT), детальной симуляцией физики лентопротяжного механизма, старением магнитных головок, CRT-дисплеем и тональной коррекцией.
 2. **Dom Radio Track** — Оптимизированная по нагрузке на процессор версия для сведения отдельных дорожек с ключевым насыщением, регулировкой скорости и умным выделением деталей.
 3. **Dom Radio Drive** — Специализированный сатуратор, сфокусированный на германиевых и кремниевых каскадах предусиления.
+
+![Dom Radio Track](assets/DOM_RADIO_TRACK.png)
 
 ### 🌟 Ключевые Особенности
 * **Двойной каскад перегруза:** Переключение между кремниевым (Silicon) и германиевым (Germanium) транзисторными предусилителями.
