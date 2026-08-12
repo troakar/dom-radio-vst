@@ -1,6 +1,6 @@
 # D O M  •  R A D I O  •  S U I T E
 
-> **Maestro-Tape Emulation Suite • Маэстро-магнитофон**  
+> **Tape Emulation Suite**  
 > Inspired by Soviet audio engineering, Makhachkala 1978 • ГОСТ 20838-75.
 
 ---
